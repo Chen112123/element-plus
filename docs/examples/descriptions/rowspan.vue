@@ -1,5 +1,5 @@
 <template>
-  <el-descriptions title="Width horizontal list" border>
+  <el-descriptions title="Width horizontal list" border lable-width="120">
     <el-descriptions-item
       :rowspan="2"
       :width="140"
